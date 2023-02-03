@@ -22,7 +22,7 @@ class Cercle:
 
     def afficher_infos(self):
         print(f" le cercle a un aire de {self.calcul_aire()})",
-              f" le cercle a un circonference de {self.calcul_circonference()}")
+              f" le cercle a un circonference de {self.calcul_circonference()})
 
 
 
